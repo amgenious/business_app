@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## To build this project
+
+- For authentication, clerk was used. Check their docs for project setup
+- For database, firebase was used. In this react-native project i used the web project not android. Check firebase docs for project setup
